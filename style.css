@@ -1,0 +1,16 @@
+html,body{
+ margin: 0;
+ padding: 0;
+}
+
+.instructions{
+    color:brown;
+    text-align: center;
+    border: solid yellow 2px;
+}
+
+.pause{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
